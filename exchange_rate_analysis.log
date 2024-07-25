@@ -1,0 +1,1 @@
+2024-07-25 10:20:32,061 - ERROR - HTTP error occurred: 401 Client Error: Unauthorized for url: https://api.exchangeratesapi.io/v1/timeseries?access_key=%3Capi_key%3E&start_date=2024-06-25&end_date=2024-07-25&base=AUD&symbols=NZD
